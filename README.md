@@ -2,6 +2,7 @@
 A basic implementation of Euler and Carmichael Totient function.
 
 ## Outputs: To n=12
+```
 Euler: 1 == 1 | Carmichael: 1
 Euler: 2 == 1 | Carmichael: 1
 Euler: 3 == 2 | Carmichael: 2
